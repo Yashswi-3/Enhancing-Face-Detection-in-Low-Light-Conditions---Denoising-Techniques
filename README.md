@@ -1,0 +1,2 @@
+# Enhancing-Face-Detection-in-Low-Light-Conditions---Denoising-Techniques
+This project enhances face detection in low-light conditions by analyzing the impact of noise types (Gaussian, Poisson, salt-and-pepper) and comparing denoising techniques (Median Filtering, NLM, Wavelet Transform, DnCNN). DnCNN outperforms traditional methods in preserving image details, evaluated using PSNR, SSIM, and MSE.
